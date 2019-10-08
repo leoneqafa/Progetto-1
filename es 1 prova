@@ -1,0 +1,21 @@
+<html>
+<head>
+<link rel="stylesheet" href="./bootstrap-italia.min.css">
+</head>
+<body style="background-color:#e6d690">
+<center>
+Prova 1
+<form >
+<table table border="1%" width="400" height="20">
+<td><label for="inputname">Nome</label>
+<input type="name" name="nome" data-placeholder="nome" placeholder="Gennaro"></td>
+<td><label for="inputsurname">Cognome</label>
+<input type="surname" name="cognome" data-placeholder="cognome" placeholder="Bullo"></td>
+<td><label for="inputemail">Email</label>
+<input type="email" name="email" data-placeholder="email" placeholder="Gebbaro@yahoo.com"><td>
+</table>
+<button id="submit-form-button" type="submit">Aggiungi righe</button>
+</form>
+</center>
+</body>
+</html>
